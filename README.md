@@ -21,7 +21,7 @@ Need Help?  Try looking at the [Knuth Shuffle Method](http://en.wikipedia.org/wi
 
 Write a `shuffle` method that takes an array and returns a new array with all of the elements in a random order.  One important property of a good `shuffle` method is that every permutation is equally likely.
 
-Use the driver code in the gist to check and be sure that the method truly does shuffle the elements in the array each time it is called. 
+Use the driver code in the `shuffler.rb` file to check and be sure that the method truly does shuffle the elements in the array each time it is called. 
 
 <!-- ##Optimize Your Learning  -->
 
