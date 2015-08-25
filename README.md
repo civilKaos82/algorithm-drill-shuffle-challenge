@@ -24,6 +24,6 @@ Tests have been written to describe the behavior of our `shuffle` method.  We ca
 - Our method should not change its input (i.e., our method should be non-destructive).
 
 ## Conclusion
-We'll be making use of a lot of functionality that is built into Ruby; after all, that is what it's therefore.  Still, it's good practice to think about how we would accomplish a task, if we had to write an algorithm ourselves. Even if we don't implement our ideas, it will give us a notion of what Ruby is doing. And because Ruby is open source, we can check our ideas against the one adopted by the language—though some may have written a C.
+We'll be making use of a lot of functionality that is built into Ruby.  Still, it's good practice to think about how we would accomplish a task, if we had to write an algorithm ourselves. Even if we don't implement our ideas, it will give us a notion of what Ruby is doing. And because Ruby is open source, we can check our ideas against the one adopted by the language—though some may have written a C.
 
 Throughout Dev Bootcamp, we'll be balancing between writing our own solutions and adopting what's available to us, like Rails.  We'll see a pattern of writing our own implementations to get an understanding of how things work before moving on to the ready-to-use solution.
