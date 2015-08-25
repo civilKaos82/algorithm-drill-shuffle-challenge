@@ -9,7 +9,7 @@ If we're stuck trying to devise our own algorithm, we can try to implement the [
 
 
 ## Releases
-### Release 0 : Write a Method to Shuffle an Array
+### Release 0: Write a Method to Shuffle an Array
 
 We're going to write a `shuffle` method that takes an array and returns a new array with all of the elements in a random order—one important property of a good `shuffle` method is that every permutation is equally likely.
 
