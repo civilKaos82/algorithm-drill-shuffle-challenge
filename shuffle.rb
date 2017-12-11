@@ -4,7 +4,7 @@ def shuffle(array)
   #Original civilKaos code
   input_array = array.clone
   output_array = []
-  i = array.length
+  i = input_array.length
   while input_array.length > 0
     output_array << input_array.slice!(rand(i))
     i -= 1
